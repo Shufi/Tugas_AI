@@ -1,0 +1,52 @@
+# Muhammad Shufi
+# 13.111.3662
+# TP-B (Pagi)
+
+1. Apakah anda setuju atau tidak dengan pendapat Turing?
+-   Saya setuju dengan pendapat Turing.
+
+2. Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+-   Menurut saya, suatu saat nanti pasti aka nada computer yang bisa melewati Tes Turing seiring dengan perkembangan jaman yang semakin canggih akan teknologi.
+
+3. Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+-   Emosi dan perasaan yang tidak dapat dibuat dalam suatu komputer. 
+
+* Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! 
+4. Pengolahan Bahasa Alami 
+-   Pemrosesan Bahasa Alami merupakan salah satu tujuan jangka panjang dari Artficial Intelegence(kecerdasan buatan) yaitu pembuatan program yang memiliki kemampuan untuk memahami bahasa manusia.
+-   Contohnya terbagi dua yaitu text-based application dan dialogue-based application.
+
+5. Knowledge Representation 
+-   Representasi pengetahuan berbentuk basis pengetahuan (knowledge base), merupakan sentral komponen dari Kecerdasan Buatan. Secara informal, representasi pengetahuan adalah himpunan tentang fakta-fakta yang  berhubungan dengan lingkungan. Tiap-tiap fakta yang ada disebut kalimat (sentence). Jadi, kalimat yang diekspresikan dalam bahasa disebut bahasa representasi pengetahuan (knowledge representation language).
+-   Contoh sederhana fakta adalah sebagai berikut :
+Helder adalah anjing
+-   Fakta tersebut dapat direpresentasikan secara logika, yaitu : Anjing(helder)
+-   Kita juga dapat merepresentasikan secara logic fakta lain, yaitu bahwa semua anjing mempunyai ekor.
+-   Kemudian, secara deduktif dari mekanisme logic ini kita bisa mendapatkan representasi baru : Mempunyai_ekor(anjing)
+-   Dengan menggunakan fungsi mapping secara backward, kita dapat menggenerate sebuah kalimat yang berbunyi : Helder mempunyai ekor
+
+6. Automated Reasoning 
+-   Otomatis penalaran merupakan wilayah dari bidang ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran. Studi penalaran otomatis membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. Meskipun penalaran otomatis dianggap sebagai sub-bidang kecerdasan buatan, juga memiliki hubungan dengan teori ilmu komputer, dan bahkan filsafat.
+-   Contohnya yaitu John Pollock's OSCAR system.
+
+7. Machine Learning 
+-   Intinya tentang bagaimana sebuah mesin “belajar” dan mengenali bahasa manusia. Proses di dalamnya melibatkan rumus-rumus yang rumit dan juga proses trial and error dari banyak pihak. Ilmu ini berkembang pesat, dan nampaknya di Indonesia juga semakin banyak yang tertarik dengan dunia ini.
+-   Contohnya yaitu spam filtering, optical character recognition (OCR), search engines, dan computer vision.
+
+8. Computer Vision
+* Computer Vision adalah bagaimana komputer/mesin dapat melihat. Computer vision adalah bidang yang mencakup metode untuk memperoleh, mengolah, menganalisis, dan memahami data visual seperti gambar dan video. Tujuan utama dari Computer Vision adalah agar komputer atau mesin dapat meniru kemampuan perseptual mata manusia dan otak, atau bahkan dapat mengunggulinya untuk tujuan tertentu.
+* Contoh aplikasi dari visi komputer mencakup sistem untuk:
+-   proses pengendalian, misalnya, sebuah robot industri;
+-   Navigasi, misalnya, oleh kendaraan otonom atau mobile robot;
+-   Mendeteksi peristiwa, misalnya, untuk pengawasan visual atau orang menghitung;
+-   Mengorganisir informasi, misalnya, untuk pengindeksan database foto dan gambar  urutan;
+-   Pemodelan benda atau lingkungan, misalnya, analisis citra medis atau model topografi;
+-   Interaksi, misalnya, sebagai input ke perangkat untuk interaksi komputer-manusia
+-   inspeksi otomatis, misalnya, dalam aplikasi manufaktur.
+
+9. Robotika 
+* Robotika adalah satu cabang teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi dari robot. Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.Pemikiran tentang pembuatan mesin yang dapat bekerja sendiri telah ada sejak Era Klasik, namun riset mengenai penggunaannya tidak berkembang secara berarti sampai abad ke-20 . Kini, banyak robot melakukan pekerjaan yang berbahaya bagi manusia seperti menjinakkan bom, menjelajahi kapal karam, dan pertambangan.
+* Contohnya :
+-   Scrubmate yaitu obot pembersih kamar mandi yang diciptakan oleh Joe Engleberger. Robot ini dilengkapi dengan control terkomputerisasi, mempunyai sensor mata ultrasonic serta dilengkapi dengan peralatan pembersih.
+-   Sojourner yaitu kendaraan robot beroda enam. Robot ini digunakan NASA tahun 1997 dalam eksplorasi di planet Mars. Robot ini dilengkapi dengan mata laser dan dapat mengambil sampel atmosfir dan tanah dan mengirimkan data dan foto ke bumi.
+-   SICO (robot terapis) yang diciptakan oleh Robert Doornick. Robot SICO pernah digunakan di rumah sakit di New York yang berfungsi untuk membantu anak-anak yang mempunyai masalah emosi.
